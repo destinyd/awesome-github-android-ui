@@ -466,7 +466,6 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 - [MultiStateView](https://github.com/XuDaojie/MultiStateView) ★179 - 用于切换不同View的各种状态 
 - [ProgressLayout](https://github.com/nguyenhoanglam/ProgressLayout) ★98 - 展示加载布局空白布局和error布局 
 - [PageStateManager](https://github.com/hss01248/PageStateManager) ★89 - 页面状态管理 
-- [HHEmptyView](https://github.com/hcs-xph/HHEmptyView) ★35 - 网络加载提示进度封装View 
 - [DataLoadingLayoutAndroid](https://github.com/lvleo/DataLoadingLayoutAndroid) ★15 - 展示当前数据加载状态的库 
 
 ## 滑动删除 
